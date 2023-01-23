@@ -54,6 +54,9 @@ body {
 
 .title {
   background-color: white;
+  -webkit-box-shadow: 0px 0px 23px 5px rgba(44, 62, 80, 1);
+  -moz-box-shadow: 0px 0px 23px 5px rgba(44, 62, 80, 1);
+  box-shadow: 0px 0px 23px 5px rgba(44, 62, 80, 1);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -83,6 +86,9 @@ body {
 
 .info-pokemon {
   background-color: white;
+  -webkit-box-shadow: 0px 0px 23px 5px rgba(44, 62, 80, 1);
+  -moz-box-shadow: 0px 0px 23px 5px rgba(44, 62, 80, 1);
+  box-shadow: 0px 0px 23px 5px rgba(44, 62, 80, 1);
   display: flex;
   flex-direction: column;
   justify-content: space-around;
